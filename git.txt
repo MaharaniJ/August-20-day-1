@@ -1,0 +1,4 @@
+git push format or syntax:
+git push origin remote or origin branchname
+  origin = initial cloned URL
+  important branches - main/master
