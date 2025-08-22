@@ -2,3 +2,6 @@ git push format or syntax:
 git push origin remote or origin branchname
   origin = initial cloned URL
   important branches - main/master
+
+git reset - to get the previous version of our file
+git pull - if we did any changes or add anything in github that changes get on local git or working file
