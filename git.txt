@@ -6,3 +6,6 @@ git push origin remote or origin branchname
 git reset - to get the previous version of our file
 git pull - if we did any changes or add anything in github that changes get on local git or working file
 git branch - to know the no of branches
+git checkout -b "branch name" : to create the new branch
+git checkout main : go to the main branch
+
